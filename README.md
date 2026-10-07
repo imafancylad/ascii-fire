@@ -1,6 +1,6 @@
 # ASCII-FIRE
 
-Proyecto en C para reproducir un vídeo .mp4 como **ASCII Art directamente en la terminal**.
+Proyecto en C para reproducir un vídeo .mp4 como **arte ASCII directamente en la terminal**.
 
 ## Estado actual
 
