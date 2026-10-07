@@ -38,7 +38,7 @@ gcc raw.c -o ascii-fire
 * Centrar la imagen.
 * Manejar correctamente `Ctrl+C` y el redimensionamiento de la terminal.
 * Optimizar el rendimiento.
-* Añadir colores ANSI y, posiblemente, audio.
+* Añadir colores ANSI y audio de 8-bit.
 
 ## Objetivo
 
